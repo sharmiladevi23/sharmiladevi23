@@ -122,20 +122,24 @@ Station-level next-hour ride demand forecasting using a **Hopsworks Feature Grou
 </table>
 
 ---
-🐍 Contribution Graph
+
+## 🐍 Contribution Graph
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/sharmiladevi23/sharmiladevi23/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-----
+---
+
 ## 📈 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sharmiladevi23&show_icons=true&theme=dark&bg_color=0f2027&border_color=2c5364&icon_color=7dd3fc&title_color=7dd3fc&text_color=ffffff&hide_border=false&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharmiladevi23&layout=compact&theme=dark&bg_color=0f2027&border_color=2c5364&title_color=7dd3fc&text_color=ffffff&hide_border=false" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sharmiladevi23&bg_color=0f2027&color=7dd3fc&line=2c5364&point=7dd3fc&area=true&hide_border=true" />
 
 </div>
+
+<br/>
 
 <div align="center">
 
