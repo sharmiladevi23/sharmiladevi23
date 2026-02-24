@@ -9,7 +9,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharmila-devi-b72650213/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cheepuripalli.sharmiladevi@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharmila.23devi@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sharmiladevi23)
 ![Profile Views](https://komarev.com/ghpvc/?username=sharmiladevi23&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS)
 
