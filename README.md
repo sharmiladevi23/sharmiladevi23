@@ -122,7 +122,12 @@ Station-level next-hour ride demand forecasting using a **Hopsworks Feature Grou
 </table>
 
 ---
+🐍 Contribution Graph
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sharmiladevi23/sharmiladevi23/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
+----
 ## 📈 GitHub Stats
 
 <div align="center">
