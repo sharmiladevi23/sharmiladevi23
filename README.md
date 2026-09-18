@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sharmila%20Devi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Platform%20%7C%20Agentic%20AI%20%7C%20Gen%20AI%20Engineer&descSize=18&descAlignY=60&descColor=7dd3fc&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sharmila%20Devi&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20Backend%20Systems&descSize=18&descAlignY=60&descColor=7dd3fc&animation=fadeIn" />
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharmila-devi-b72650213/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharmila-devi-cheepuripalli/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharmila.23devi@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sharmiladevi23)
 ![Profile Views](https://komarev.com/ghpvc/?username=sharmiladevi23&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS)
@@ -21,20 +21,20 @@
 
 ```python
 class SharmilaDevi:
-    role        = "Software Engineer — Data Platform & AI"
-    location    = "New York 🇺🇸"
+    role        = "Software Engineer — AI & Backend Systems"
+    location    = "USA 🇺🇸"
     education   = "MS Data Science · University at Buffalo"
-    experience  = ["Wagner Engineering", "HARMAN (Samsung)", "Breezad Online and Media Services", "Reed Tech"]
+    experience  = ["Plaid", "Wagner Engineering", "HARMAN (Samsung)", "Zoho Corporation"]
 
     focus = [
-        "🤖  Agentic AI & LLM-Powered Data Systems",
-        "🔗  Gen AI Pipelines (RAG, Tool-Use, Orchestration)",
-        "⚙️   End-to-End MLOps: Feature Store → Registry → Inference",
-        "☁️   Cloud-Native Streaming & Real-Time ML Platforms",
+        "🤖  Agentic AI & LLM-Powered Backend Systems",
+        "🔗  RAG, Tool Use & LLM Orchestration",
+        "⚙️   Backend APIs, Microservices & Distributed Systems",
+        "☁️   Cloud-Native Streaming & Real-Time AI Platforms",
     ]
 
-    currently_building = "AI-enabled data platforms where pipelines meet intelligence"
-    open_to            = ["Data Platform Engineer", "AI/ML Engineer", "Software Engineer"]
+    currently_building = "AI-powered backend systems where data, agents, and distributed services meet"
+    open_to            = ["Software Engineer", "Backend Engineer", "AI Engineer", "Full Stack Engineer"]
 ```
 
 ---
@@ -43,12 +43,27 @@ class SharmilaDevi:
 
 ### 🤖 AI / Gen AI / ML
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agentic_AI-1C3C3C?style=flat-square&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![LightGBM](https://img.shields.io/badge/LightGBM-026502?style=flat-square&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Optuna](https://img.shields.io/badge/Optuna-4B9CD3?style=flat-square&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+### ⚙️ Backend, Data Engineering & Streaming
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka%2FRedpanda-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFC107?style=flat-square&logo=duckdb&logoColor=black)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 
 ### 🗄️ MLOps & Feature Stores
 ![Hopsworks](https://img.shields.io/badge/Hopsworks-Feature_Store-00A86B?style=flat-square&logoColor=white)
@@ -57,17 +72,9 @@ class SharmilaDevi:
 ![Weights & Biases](https://img.shields.io/badge/W%26B-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
 ![EvidentlyAI](https://img.shields.io/badge/EvidentlyAI-Monitoring-8A2BE2?style=flat-square&logoColor=white)
 
-### 🏗️ Data Engineering & Streaming
-![Apache Kafka](https://img.shields.io/badge/Kafka%2FRedpanda-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFC107?style=flat-square&logo=duckdb&logoColor=black)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
 ### ☁️ Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
@@ -152,10 +159,10 @@ Station-level next-hour ride demand forecasting using a **Hopsworks Feature Grou
 ## 🎯 What I'm Working On
 
 ```
-🔭  Building    →  Agentic AI pipelines that reason, plan, and act over data
-🌱  Learning    →  LLM orchestration, RAG architectures, vector databases
-📌  Strongest   →  MLOps · Feature Stores · Streaming Pipelines · Snowflake
-📍  Based in    →  New York  |  Open to remote & hybrid roles & relocation
+🔭  Building    →  Agentic AI systems that reason, retrieve, call tools, and act over data
+🌱  Exploring   →  Multi-agent orchestration · LLM evaluation · AI system reliability
+📌  Strongest   →  Backend Systems · Agentic AI · Distributed Systems · Data Platforms
+📍  Based in    →  USA  |  Open to onsite, remote, hybrid & relocation
 ```
 
 ---
